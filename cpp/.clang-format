@@ -53,8 +53,8 @@ PenaltyExcessCharacter: 0
 PenaltyReturnTypeOnItsOwnLine: 0
 PointerAlignment: Left
 ReflowComments:  true
-SortIncludes:    true
-SortUsingDeclarations: true
+SortIncludes:    false
+SortUsingDeclarations: false
 SpaceAfterCStyleCast: false
 SpaceAfterTemplateKeyword: true
 SpaceBeforeAssignmentOperators: true
