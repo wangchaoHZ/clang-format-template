@@ -1,8 +1,7 @@
----
 Language:        Cpp
 AccessModifierOffset: -4
 AlignAfterOpenBracket: Align
-AlignConsecutiveAssignments: true
+AlignConsecutiveAssignments: false
 AlignConsecutiveDeclarations: true
 AlignEscapedNewlines: Left
 AlignOperands:   true
@@ -75,6 +74,5 @@ Standard:        Cpp11
 TabWidth:        4
 UseTab:          Never
 AlignConsecutiveMacros: AcrossEmptyLinesAndComments
-AlignTrailingComments:	true
+AlignTrailingComments: true
 CommentPragmas:  '^\\s*//\\s*MARK:'
-...
